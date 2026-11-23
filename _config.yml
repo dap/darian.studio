@@ -26,6 +26,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://darian.studio" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
+muso_profile_url: https://muso.ai/profile/ce02792f-71fe-4449-8d43-acf8fa1efc52
+muso_profile_name: Darian on Muso
 
 # Build settings
 remote_theme: dap/creative-theme-jekyll
